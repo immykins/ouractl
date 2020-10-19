@@ -1,0 +1,2 @@
+# ouractl
+oura CLI tool
